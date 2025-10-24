@@ -1,7 +1,7 @@
 <!-- Encabezado llamativo con imagen y título -->
 <div align="center">
   <img src="https://img.icons8.com/color/96/000000/source-code.png" alt="Code Icon"/>
-  <h1>Hola, soy Yadier Vidal👨‍💻</h1>
+  <h1>Hola, soy Yadier Vidal🧑🏻‍💻</h1>
   <p><strong>Desarrollador Web Full Stack | Django + Angular | Despliegue profesional con Render y Netlify</strong></p>
 </div>
 
@@ -15,7 +15,7 @@
 
 ---
 
-🧰 Tecnologías que domino
+# 🧰 Tecnologías que domino
 <div align="center">
 
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> </a>
@@ -29,7 +29,7 @@
 
 </div>
 
-💻 Lenguajes
+# 💻 Lenguajes
 <div align="center">
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a>
