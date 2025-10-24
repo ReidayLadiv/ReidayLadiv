@@ -1,7 +1,7 @@
 <!-- Encabezado llamativo con imagen y título -->
 <div align="center">
   <img src="https://img.icons8.com/color/96/000000/source-code.png" alt="Code Icon"/>
-  <h1>Hola, soy Yadier 👨‍💻</h1>
+  <h1>Hola, soy Yadier Vidal👨‍💻</h1>
   <p><strong>Desarrollador Full Stack | Django + Angular | Despliegue profesional con Render y Netlify</strong></p>
 </div>
 
