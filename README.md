@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## 👤 Sobre mí
 
 🎯 Apasionado por la autenticidad visual, la optimización técnica y las soluciones reales.  
 🛠️ Experto en backend con Django, despliegue en Render, y frontend moderno con Angular en Netlify.  
