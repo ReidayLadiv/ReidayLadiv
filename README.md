@@ -46,6 +46,7 @@
 - 🏠 **Inmobiliaria MX**  
   Backend en Django con SQLite, frontend en Angular, desplegado en Render y Netlify.  
   [🔗 Ver repositorio de backend](https://github.com/ReidayLadiv/Inmobiliaria-MX-Backend)
+  [🔗 Ver repositorio de frontend](https://github.com/ReidayLadiv/Inmobiliaria-MX-Frontend)
 
 ---
 
