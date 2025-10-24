@@ -11,7 +11,6 @@
 
 🎯 Apasionado por la autenticidad visual, la optimización técnica y las soluciones reales.  
 🛠️ Experto en backend con Django, despliegue en Render, y frontend moderno con Angular en Netlify.  
-🎮 Explorador de shaders, modding y configuraciones avanzadas en Minecraft Bedrock.  
 📡 Interesado en conectividad, automatización y eficiencia en entornos digitales.
 
 ---
@@ -34,8 +33,6 @@
   Backend en Django con SQLite, frontend en Angular, desplegado en Render y Netlify.  
   [🔗 Ver repositorio](https://github.com/ReidayLadiv/Inmobiliaria-MX-Backend)
 
-- 🧪 **Shader Lab para Minecraft Bedrock**  
-  Experimentación con `.mcpack`, efectos visuales y optimización multiplataforma.
 
 ---
 
