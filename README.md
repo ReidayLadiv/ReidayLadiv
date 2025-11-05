@@ -54,6 +54,10 @@
 
 Puedes encontrarme en:
 
+<a href="https://www.linkedin.com/in/yadier-vidal-7b5489373" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
 <a href="https://t.me/vidal_www" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
